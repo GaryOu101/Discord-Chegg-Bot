@@ -15,7 +15,7 @@
   
   ### Requirements to operate
   * Version of Python 3.6 (other versions may not work)
-  * Discord API token
+  * Discord Bot token
   * Access to a Chegg account
   
   ### Ending thoughts
