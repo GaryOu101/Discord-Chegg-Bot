@@ -7,7 +7,7 @@
 * [pynput](https://pypi.org/project/pynput/)
 
 ### Input/Output
-* Example of what a user would type:  .chegg <chegg-link>
+* Example of what a user would type:  .chegg \<chegg-link\>
   ![botinput](https://user-images.githubusercontent.com/42448439/101305996-af748c00-37f8-11eb-9158-41699c8157dc.png)
 * PDF file the user receives:
   ![cheggbotoutput](https://user-images.githubusercontent.com/42448439/101307125-9a4d2c80-37fb-11eb-99c1-92b1df0b0498.PNG)
