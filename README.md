@@ -1,4 +1,5 @@
 # Discord-Chegg-Bot
+Note: bare in mind this was my first project with little to no coding experience so its implemented in a very nooby way C:
 * In this project, I created a Discord bot that takes a Chegg URL and generates a PDF file containing the contents of the given URL. The purpose of this bot is to allow the owner to share his/her Chegg subscription, in an automated fashion, with others who do not have a subscription. The bot opens the link in a web browser and utilizes pynput to simulate the key presses necessary to print the page as a PDF. The bot then uploads the PDF to the Discord channel where the request was made.
 
 ### Tools
